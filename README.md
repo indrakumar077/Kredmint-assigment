@@ -5,7 +5,7 @@ features -
 1. add to cart is working
 2. on Clicking cart it forwarding to details page
 3. all the add items can be seen when click on Cart in Nav bar
-4. User cam remove Any Added Cart also
+4. User can remove Any Added Cart also
 
 
 Thanks.
