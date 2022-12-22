@@ -1,0 +1,36 @@
+.nav{
+  
+    display: flex;
+    height: 2rem;
+    justify-content:space-between;
+    align-items: center ;
+    background-color: rgb(7, 220, 220);
+}
+
+.navlinks{
+    display: flex;
+    font-weight: 900;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+    margin-left: 1rem;
+
+}
+.Ecom{
+    position: absolute;
+    top:1%;
+    left: 50%;
+    font-weight: 800;
+    color: rgb(38, 10, 98);
+
+}
+.cart{
+    margin-right: 3rem;
+    
+}
+
+.cartIcon{
+    position:absolute;
+    top:1%;
+    left:95%;
+}

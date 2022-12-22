@@ -1,0 +1,21 @@
+.Home{
+    margin: 0;
+    padding: 0;
+}
+.items{
+    
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    gap: 10rem;
+
+}
+.Itemcard{
+   
+    margin: 6rem;
+    height: 5rem;
+    width:  8rem;
+    display: flex;
+    flex-direction: column;
+}
+
